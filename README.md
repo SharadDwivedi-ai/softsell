@@ -4,7 +4,7 @@ SoftSell is a fictional startup offering a marketplace for reselling unused soft
 
 ## 🚀 Live Demo
 
-**[Live URL (if deployed)](https://your-live-demo-url.com)**  
+**[Live URL (if deployed)](https://sharaddwivedi-ai.github.io/softsell/)**  
 *(or run locally with `npm run dev`)*
 
 ---
