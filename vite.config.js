@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/softsell/', // <-- match your repo name
+  base: '/', // <-- match your repo name
 });
