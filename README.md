@@ -44,6 +44,6 @@ SoftSell is a fictional startup offering a marketplace for reselling unused soft
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/softsell.git
+git clone https://github.com/SharadDwivedi-ai/softsell.git
 cd softsell
 npm install
